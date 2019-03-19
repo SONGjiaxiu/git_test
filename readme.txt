@@ -4,5 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes.
 heihei
 测试brance分支
-冲突
+解决冲突
  
